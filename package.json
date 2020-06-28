@@ -1,7 +1,7 @@
 {
-  "name": "roary_nodejs",
+  "name": "express_example",
   "version": "1.0.0",
-  "description": "Roary App",
+  "description": "This is a sample project to show how an Express application can be run inside a Docker container with livereloading and debug support.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeides/roary_nodejs"
+    "url": "https://github.com/zeides/express_example"
   },
   "author": "Karsten Zeides",
   "license": "ISC",
